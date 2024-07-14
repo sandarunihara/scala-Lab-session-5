@@ -1,0 +1,26 @@
+2024.07.14 19:59:09 INFO  Started: Metals version 1.3.3 in folders 'E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@1c821e2e]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@67389e8a]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@1c821e2e]
+2024.07.14 19:59:09 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.14 19:59:11 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 14, 2024 7:59:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.07.14 19:59:18 INFO  Running List(C:\Users\User\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5)
+2024.07.14 19:59:19 INFO  Attempting to connect to the build server...
+2024.07.14 19:59:19 INFO  Running BSP server List(C:\Users\User\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\.scala-build\ide-options-v2.json, --json-launcher-options, E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\.scala-build\ide-launcher-options.json, --envs-file, E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\.scala-build\ide-envs.json, E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5)
+2024.07.14 19:59:19 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\.metals\bsp.trace.json or C:\Users\User\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.14 19:59:21 INFO  BSP server: Starting compilation server
+2024.07.14 19:59:22 WARN  Could not find semantic tokens for: file:///E:/2nd%20Year/Semester%201/FC/practicals/session%205/scala-Lab-session-5/q1.scala
+2024.07.14 19:59:34 INFO  time: Connected to build server in 15s
+2024.07.14 19:59:34 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.14 19:59:36 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 19:59:38 INFO  time: Imported build in 4.51s
+2024.07.14 19:59:38 INFO  running doctor check
+2024.07.14 19:59:38 INFO  java targets: scala-Lab-session-5_f4dd477a3a-test, scala-Lab-session-5_f4dd477a3a
+2024.07.14 19:59:44 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.14 20:00:00 INFO  time: indexed workspace in 21s
+Jul 14, 2024 8:01:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
