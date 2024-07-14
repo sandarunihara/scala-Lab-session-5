@@ -15,3 +15,11 @@ def getProductList():List[String]={
     product
 }
 
+
+
+def printProductList():Unit={
+    var product=getProductList()
+    for(i<- 0 until product.length){
+        println(s"${i+1}. ${product(i)}")
+    }
+}
