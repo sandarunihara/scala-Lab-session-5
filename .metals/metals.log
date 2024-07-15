@@ -24,3 +24,493 @@ WARNING: Unmatched cancel notification for request id 1
 2024.07.14 20:00:00 INFO  time: indexed workspace in 21s
 Jul 14, 2024 8:01:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2024.07.14 20:03:12 WARN  Could not find semantic tokens for: file:///E:/2nd%20Year/Semester%201/FC/practicals/session%205/scala-Lab-session-5/q1.scala
+2024.07.14 20:08:19 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 20:08:20 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 1.68s
+Jul 14, 2024 8:08:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 101
+Jul 14, 2024 8:08:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 106
+Jul 14, 2024 8:08:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 140
+2024.07.14 20:08:59 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 20:09:01 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 2.61s
+2024.07.14 20:11:47 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 20:11:47 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.88s
+2024.07.14 20:11:48 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+Jul 14, 2024 8:11:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 193
+2024.07.14 20:11:49 WARN  Could not find semantic tokens for: file:///E:/2nd%20Year/Semester%201/FC/practicals/session%205/scala-Lab-session-5/q1.scala
+2024.07.14 20:11:50 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 1.57s
+2024.07.14 20:11:50 WARN  Could not find semantic tokens for: file:///E:/2nd%20Year/Semester%201/FC/practicals/session%205/scala-Lab-session-5/q1.scala
+2024.07.14 20:11:50 WARN  Could not find semantic tokens for: file:///E:/2nd%20Year/Semester%201/FC/practicals/session%205/scala-Lab-session-5/q1.scala
+2024.07.14 20:11:51 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 20:11:51 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 76ms
+2024.07.14 20:11:51 WARN  Could not find semantic tokens for: file:///E:/2nd%20Year/Semester%201/FC/practicals/session%205/scala-Lab-session-5/q1.scala
+2024.07.14 20:11:54 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 20:11:54 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 59ms
+2024.07.14 20:11:59 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 20:11:59 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 60ms
+2024.07.14 20:12:02 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 20:12:02 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.4s
+2024.07.14 20:12:06 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 20:12:06 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.37s
+2024.07.14 20:12:08 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 20:12:08 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.26s
+Jul 14, 2024 8:12:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 336
+2024.07.14 20:12:14 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 20:12:14 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.37s
+2024.07.14 20:12:32 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 20:12:34 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 1.48s
+2024.07.14 20:12:47 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.14 20:12:47 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:12:48 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:12:49 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:12:50 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:12:50 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:12:51 INFO  Running List(C:\Users\User\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4\.metals-scala-cli, --semantic-db-source-root, E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4, E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4\q1.scala)
+2024.07.14 20:12:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4\.metals\bsp.trace.json or C:\Users\User\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.14 20:12:52 INFO  Scala CLI: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.14 20:12:52 INFO  Scala CLI: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.14 20:12:52 INFO  Scala CLI: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.14 20:12:53 INFO  time: code lens generation in 4.82s
+2024.07.14 20:12:53 INFO  Scala CLI: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.14 20:12:56 INFO  Connected to Scala CLI server v1.3.2
+2024.07.14 20:12:57 INFO  compiling _96640a46d0-b9740bdecb (1 scala source)
+2024.07.14 20:13:00 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.14 20:13:00 INFO  time: compiled _96640a46d0-b9740bdecb in 3.34s
+2024.07.14 20:13:01 INFO  time: indexed workspace in 5.11s
+2024.07.14 20:13:01 INFO  Scala CLI started for E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4\q1.scala
+2024.07.14 20:13:03 INFO  Shut down connection with build server.
+2024.07.14 20:13:07 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 20:13:07 INFO  Running List(C:\Users\User\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4\.metals-scala-cli, --semantic-db-source-root, E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4, E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4\q2.scala)
+2024.07.14 20:13:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4\.metals\bsp.trace.json or C:\Users\User\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.14 20:13:11 INFO  Connected to Scala CLI server v1.3.2
+2024.07.14 20:13:11 INFO  compiling _96640a46d0-128a4017cf (1 scala source)
+2024.07.14 20:13:11 INFO  time: compiled _96640a46d0-128a4017cf in 0.83s
+2024.07.14 20:13:13 INFO  time: indexed workspace in 2.48s
+2024.07.14 20:13:14 INFO  Scala CLI started for E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4\q2.scala
+2024.07.14 20:13:20 INFO  Shut down connection with build server.
+Jul 14, 2024 8:13:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didChange",
+  "params": {
+    "textDocument": {
+      "version": 55,
+      "uri": "file:///e%3A/2nd%20Year/Semester%201/FC/practicals/session%205/scala-Lab-session-5/q1.scala"
+    },
+    "contentChanges": [
+      {
+        "text": "\r\n\r\ndef getProductList():List[String]\u003d{\r\n\r\n}"
+      }
+    ]
+  }
+}
+java.lang.IllegalArgumentException: -1 is not a valid offset, allowed [0..44]
+	at scala.meta.internal.inputs.InternalInput.offsetToLine(InternalInput.scala:54)
+	at scala.meta.internal.inputs.InternalInput.offsetToLine$(InternalInput.scala:48)
+	at scala.meta.inputs.Input$VirtualFile.offsetToLine(Input.scala:86)
+	at scala.meta.inputs.Position$Range.startLine$lzycompute(Position.scala:39)
+	at scala.meta.inputs.Position$Range.startLine(Position.scala:39)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionMetaPosition.toLsp(ScalametaCommonEnrichments.scala:77)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.$anonfun$toRevised$8(TokenEditDistance.scala:310)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.toRevised(TokenEditDistance.scala:241)
+	at scala.meta.internal.metals.Diagnostics.toFreshDiagnostic(Diagnostics.scala:283)
+	at scala.meta.internal.metals.Diagnostics.$anonfun$publishDiagnostics$2(Diagnostics.scala:239)
+	at scala.meta.internal.metals.Diagnostics.$anonfun$publishDiagnostics$2$adapted(Diagnostics.scala:238)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:935)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:238)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:203)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:138)
+	at scala.meta.internal.metals.MetalsLspService.didChange(MetalsLspService.scala:865)
+	at scala.meta.internal.metals.ProjectMetalsLspService.didChange(ProjectMetalsLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.didChange(WorkspaceLspService.scala:404)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChange(DelegatingScalaService.scala:50)
+	at jdk.internal.reflect.GeneratedMethodAccessor8.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.07.14 20:13:39 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 20:13:41 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 2.19s
+2024.07.14 20:13:42 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 20:13:42 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.6s
+2024.07.14 20:13:43 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 20:13:43 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.78s
+Jul 14, 2024 8:13:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 475
+2024.07.14 20:13:53 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 20:13:53 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.58s
+2024.07.14 20:13:57 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 20:13:57 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.57s
+2024.07.14 20:14:10 INFO  Running List(C:\Users\User\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4\.metals-scala-cli, --semantic-db-source-root, E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4, E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4\q2.scala)
+2024.07.14 20:14:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4\.metals\bsp.trace.json or C:\Users\User\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.14 20:14:13 INFO  Connected to Scala CLI server v1.3.2
+2024.07.14 20:14:15 INFO  time: indexed workspace in 1.77s
+2024.07.14 20:14:16 INFO  Scala CLI started for E:\2nd Year\Semester 1\FC\practicals\sessions 4\scala-Lab-session-4\q2.scala
+Jul 14, 2024 8:14:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 541
+2024.07.14 20:14:42 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 20:14:42 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.69s
+2024.07.14 20:16:13 INFO  Scala test classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:270)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.14 20:16:13 INFO  Scala main classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:270)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.14 20:19:13 INFO  Scala main classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:270)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.14 20:19:13 INFO  Scala test classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [3 minutes]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:270)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+Jul 14, 2024 10:07:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 576
+Jul 14, 2024 10:07:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 601
+Jul 14, 2024 10:07:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 613
+Jul 14, 2024 10:08:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 637
+Jul 14, 2024 10:09:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 745
+2024.07.14 22:09:23 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:09:23 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.66s
+2024.07.14 22:09:25 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:09:25 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.45s
+2024.07.14 22:09:30 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:09:30 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.24s
+2024.07.14 22:09:31 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:09:31 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.5s
+2024.07.14 22:09:33 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:09:33 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.23s
+2024.07.14 22:10:53 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:10:55 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 1.33s
+Jul 14, 2024 10:11:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1013
+2024.07.14 22:11:52 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:11:52 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.43s
+2024.07.14 22:12:31 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:12:31 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.64s
+2024.07.14 22:12:35 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:12:35 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.22s
+2024.07.14 22:12:38 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:12:38 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.1s
+2024.07.14 22:12:39 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:12:39 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 93ms
+2024.07.14 22:12:41 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:12:41 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.16s
+2024.07.14 22:12:43 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:12:43 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.11s
+2024.07.14 22:12:47 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:12:47 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 82ms
+2024.07.14 22:12:49 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:12:49 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.33s
+2024.07.14 22:20:02 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:20:04 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 1.37s
+2024.07.14 22:20:06 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:20:06 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.1s
+2024.07.14 22:20:06 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:20:08 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:20:09 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:20:09 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.14s
+2024.07.14 22:20:09 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:20:11 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:20:12 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:20:12 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 96ms
+2024.07.14 22:20:12 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:20:45 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:20:54 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:20:55 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:20:56 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:20:57 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+Jul 14, 2024 10:20:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1332
+2024.07.14 22:20:59 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:20:59 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:21:00 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:21:01 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:21:02 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:21:06 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:21:12 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:21:12 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:21:13 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:21:15 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+Jul 14, 2024 10:21:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1412
+2024.07.14 22:21:16 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:21:34 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+2024.07.14 22:21:35 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:21:36 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 1.38s
+Jul 14, 2024 10:21:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1430
+Jul 14, 2024 10:21:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1442
+2024.07.14 22:21:38 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:21:38 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.55s
+2024.07.14 22:21:40 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:21:40 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.12s
+2024.07.14 22:21:43 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:21:43 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.12s
+Jul 14, 2024 10:21:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1469
+2024.07.14 22:21:53 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:21:53 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 96ms
+2024.07.14 22:21:55 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:21:55 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 96ms
+2024.07.14 22:21:57 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:21:57 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.26s
+Jul 14, 2024 10:22:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1685
+2024.07.14 22:22:48 ERROR Failed to tokenize input for semantic tokens for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+scala.meta.tokenizers.TokenizeException: <input>:20: error: unclosed string interpolation
+        println(s"$")
+                  ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.14 22:24:16 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:24:16 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.28s
+2024.07.14 22:25:22 ERROR Failed to tokenize input for semantic tokens for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q1.scala
+scala.meta.tokenizers.TokenizeException: <input>:20: error: unclosed string interpolation
+        println(s"${i+1} : $")
+                        ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:605)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:239)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.14 22:25:23 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:25:23 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.24s
+Jul 14, 2024 10:25:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1839
+2024.07.14 22:25:34 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:25:34 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.23s
+2024.07.14 22:25:36 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:25:36 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.44s
+2024.07.14 22:25:37 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:25:37 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.46s
+2024.07.14 22:25:59 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:25:59 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.23s
+2024.07.14 22:26:01 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:26:01 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 75ms
+2024.07.14 22:26:04 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:26:04 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.11s
+2024.07.14 22:26:18 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:26:18 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.19s
+2024.07.14 22:26:21 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:26:21 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 90ms
+2024.07.14 22:26:22 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:26:22 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.13s
+2024.07.14 22:26:27 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:26:27 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 98ms
+2024.07.14 22:26:32 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:26:32 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 75ms
+Jul 14, 2024 10:26:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2057
+2024.07.14 22:26:34 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:26:34 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 95ms
+2024.07.14 22:26:41 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:26:41 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 93ms
+2024.07.14 22:26:45 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:26:45 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 96ms
+2024.07.14 22:26:46 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:26:46 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.21s
+2024.07.14 22:27:38 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:27:38 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.22s
+2024.07.14 22:30:29 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:30:29 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.21s
+2024.07.14 22:31:01 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:31:01 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.2s
+2024.07.14 22:31:02 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:31:02 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.2s
+2024.07.14 22:32:04 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:32:04 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.29s
+2024.07.14 22:32:42 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:32:42 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.23s
+2024.07.14 22:34:35 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:34:35 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.11s
+2024.07.14 22:34:52 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:34:52 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.1s
+2024.07.14 22:34:56 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:34:56 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.24s
+2024.07.14 22:34:59 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:34:59 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.24s
+2024.07.14 22:37:02 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:37:02 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.13s
+2024.07.14 22:37:06 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:37:06 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 82ms
+2024.07.14 22:37:10 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:37:10 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 99ms
+2024.07.14 22:37:14 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:37:14 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.21s
+2024.07.14 22:37:15 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:37:15 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.25s
+2024.07.14 22:42:23 INFO  Shut down connection with build server.
+2024.07.14 22:42:30 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 22:42:31 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.14 22:42:31 WARN  Could not find semantic tokens for: file:///E:/2nd%20Year/Semester%201/FC/practicals/session%205/scala-Lab-session-5/q2.scala
+2024.07.14 22:42:31 INFO  running doctor check
+2024.07.14 22:42:31 INFO  java targets: scala-Lab-session-5_f4dd477a3a-test, scala-Lab-session-5_f4dd477a3a
+2024.07.14 22:42:31 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:42:31 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 71ms
+2024.07.14 22:42:32 INFO  time: indexed workspace in 1.28s
+2024.07.14 22:42:33 WARN  Could not find semantic tokens for: file:///E:/2nd%20Year/Semester%201/FC/practicals/session%205/scala-Lab-session-5/q2.scala
+2024.07.14 22:53:43 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:53:43 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.61s
+2024.07.14 22:53:45 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:53:45 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.44s
+2024.07.14 22:53:51 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:53:51 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 85ms
+2024.07.14 22:54:34 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:54:34 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 83ms
+2024.07.14 22:54:47 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:54:47 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 63ms
+2024.07.14 22:54:48 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:54:48 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 60ms
+2024.07.14 22:54:51 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:54:51 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.32s
+2024.07.14 22:56:23 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:56:23 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.29s
+2024.07.14 22:56:25 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:56:25 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 78ms
+2024.07.14 22:56:26 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q2.scala
+2024.07.14 22:56:26 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q2.scala
+2024.07.14 22:56:27 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:56:28 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q2.scala
+2024.07.14 22:56:27 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.44s
+2024.07.14 22:56:32 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:56:32 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.26s
+2024.07.14 22:56:35 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:56:35 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.16s
+2024.07.14 22:56:42 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:56:42 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.22s
+2024.07.14 22:58:53 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:58:53 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.28s
+2024.07.14 22:58:56 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:58:56 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.25s
+2024.07.14 22:58:57 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:58:57 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.35s
+2024.07.14 22:59:13 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 22:59:13 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.26s
+2024.07.14 23:02:09 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 23:02:09 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.38s
+2024.07.14 23:02:14 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 23:02:14 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.32s
+2024.07.14 23:02:45 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 23:02:45 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.31s
+Jul 14, 2024 11:07:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3394
+2024.07.14 23:08:56 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 23:08:56 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.25s
+2024.07.14 23:09:09 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 23:09:09 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.24s
+2024.07.14 23:09:12 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
+2024.07.14 23:09:12 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 0.23s
+2024.07.14 23:17:04 INFO  Shutting down server
+2024.07.14 23:17:04 INFO  shutting down Metals
+2024.07.14 23:17:04 INFO  Shut down connection with build server.
+2024.07.14 23:17:04 INFO  Exiting server
