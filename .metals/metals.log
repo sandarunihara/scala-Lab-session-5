@@ -555,3 +555,7 @@ WARNING: Unmatched cancel notification for request id 93
 2024.07.15 11:47:17 WARN  Could not load snapshot text for E:\2nd Year\Semester 1\FC\practicals\session 5\scala-Lab-session-5\q2.scala
 2024.07.15 11:47:19 INFO  compiling scala-lab-session-5_f4dd477a3a (1 scala source)
 2024.07.15 11:47:22 INFO  time: compiled scala-Lab-session-5_f4dd477a3a in 3.15s
+2024.07.15 11:50:29 INFO  Shutting down server
+2024.07.15 11:50:29 INFO  shutting down Metals
+2024.07.15 11:50:29 INFO  Shut down connection with build server.
+2024.07.15 11:50:29 INFO  Exiting server

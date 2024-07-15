@@ -46,3 +46,15 @@ def searchByTitle(title: String): Unit = {
     }
   }
 
+def displayBooksByAuthor(author: String): Unit = {
+    val booksByAuthor = library.filter(_.author.equalsIgnoreCase(author))
+    if (booksByAuthor.nonEmpty) {
+      booksByAuthor.foreach { book =>
+        println(s"Title: ${book.title}, Author: ${book.author}, ISBN: ${book.isbn}")
+      }
+    } else {
+      println(s"No books found by author: $author")
+    }
+  }
+
+
