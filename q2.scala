@@ -3,7 +3,7 @@ case class Book(title: String, author: String, isbn: String)
 var library: Set[Book] = Set(
     Book("Madol Doova", "Martin Wickramasinghe", "1"),
     Book("Gamperaliya", " Martin Wickremasinghe", "2"),
-    Book("Thunmanhandiya", " Mahagama Sekara", "3"),
+    Book("Thunmanhandiya", " Mahagama Sekara", "3")
 )
 
  def addBook(book: Book): Unit = {
