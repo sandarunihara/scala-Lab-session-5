@@ -1,11 +1,10 @@
 case class Book(title: String, author: String, isbn: String)
 
 var library: Set[Book] = Set(
-    Book("1984", "George Orwell", "1234567890"),
-    Book("To Kill a Mockingbird", "Harper Lee", "1234567891"),
+    Book("Madol Doova", "Martin Wickramasinghe", "1"),
+    Book("Gamperaliya", " Martin Wickremasinghe", "2"),
+    Book("Thunmanhandiya", " Mahagama Sekara", "3"),
 )
-
-var x=Book("The Great Gatsby", "F. Scott Fitzgerald", "1234567892")
 
  def addBook(book: Book): Unit = {
     library += book
@@ -57,4 +56,28 @@ def displayBooksByAuthor(author: String): Unit = {
     }
   }
 
+def main(args: Array[String]): Unit = {
 
+    var newb=Book("Mai mara prasangaya", "Mahinda Prasad Masimbula", "4")
+
+    var continue = true
+
+    while (continue) {
+
+      println("Choose an Option: \n1 Add a book \n2 Remove a book  \n3 Check if a book exists \n4 Display library \n5 Search for a book by title \n6 Display all books by an author \n7 Exit")
+
+
+      val choice = scala.io.StdIn.readInt()
+
+      choice match {
+        case 1 => addBook(newb)
+        case 2 => removeBook("3")
+        case 3 => checkBook("2")
+        case 4 => displayLibrary()
+        case 5 => searchByTitle("Gamperaliya")
+        case 6 => displayBooksByAuthor("Martin Wickremasinghe")
+        case 7 => continue = false
+        case _ => println("Invalid choice. Please try again.")
+      }
+    }
+}
