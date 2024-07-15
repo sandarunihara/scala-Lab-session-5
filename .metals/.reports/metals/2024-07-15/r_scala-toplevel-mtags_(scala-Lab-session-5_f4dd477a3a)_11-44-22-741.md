@@ -1,4 +1,4 @@
-case class Book(title: String, author: String, isbn: String)
+error id: file:///E:/2nd%20Year/Semester%201/FC/practicals/session%205/scala-Lab-session-5/q2.scala:[1065..1065) in Input.VirtualFile("file:///E:/2nd%20Year/Semester%201/FC/practicals/session%205/scala-Lab-session-5/q2.scala", "case class Book(title: String, author: String, isbn: String)
 
 var library: Set[Book] = Set(
     Book("1984", "George Orwell", "1234567890"),
@@ -35,14 +35,13 @@ def displayLibrary(): Unit = {
     }
   }
 
-def searchByTitle(title: String): Unit = {
-    val booksFound = library.filter(_.title.equalsIgnoreCase(title))
-    if (booksFound.nonEmpty) {
-      booksFound.foreach { book =>
-        println(s"Found book - Title: ${book.title}, Author: ${book.author}, ISBN: ${book.isbn}")
-      }
-    } else {
-      println(s"No book found with title: $title")
-    }
-  }
+def 
 
+")
+file:///E:/2nd%20Year/Semester%201/FC/practicals/session%205/scala-Lab-session-5/q2.scala
+file:///E:/2nd%20Year/Semester%201/FC/practicals/session%205/scala-Lab-session-5/q2.scala:40: error: expected identifier; obtained eof
+
+^
+#### Short summary: 
+
+expected identifier; obtained eof
