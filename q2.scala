@@ -35,7 +35,7 @@ def displayLibrary(): Unit = {
   }
 
 def searchByTitle(title: String): Unit = {
-    val booksFound = library.filter(_.title.equalsIgnoreCase(title))
+    val booksFound = library.filter(_.title==title)
     if (booksFound.nonEmpty) {
       booksFound.foreach { book =>
         println(s"Found book - Title: ${book.title}, Author: ${book.author}, ISBN: ${book.isbn}")
@@ -46,7 +46,7 @@ def searchByTitle(title: String): Unit = {
   }
 
 def displayBooksByAuthor(author: String): Unit = {
-    val booksByAuthor = library.filter(_.author.equalsIgnoreCase(author))
+    val booksByAuthor = library.filter(_.author==author)
     if (booksByAuthor.nonEmpty) {
       booksByAuthor.foreach { book =>
         println(s"Title: ${book.title}, Author: ${book.author}, ISBN: ${book.isbn}")
